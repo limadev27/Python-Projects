@@ -30,8 +30,8 @@ As tecnologias serão atualizadas conforme os projetos forem desenvolvidos.
 
 | # | Projeto | Status | Descrição |
 |---|---------|--------|-----------|
-| 01 | Calculadora Simples | 🚧 In Progress | Calculadora com interface |
-| 02 | Jogo de Adivinhação | ⬜ A fazer | Jogo interativo de adivinhar números |
+| 01 | Calculadora Simples | ✅ Feito | Calculadora com interface |
+| 02 | Jogo de Adivinhação | ✅ Feito | Jogo interativo de adivinhar números |
 | 03 | Conversor de Unidades | ⬜ A fazer | Converte temperatura, peso, distância |
 | 04 | To-Do List CLI | ⬜ A fazer | Gerenciador de tarefas com persistência |
 | 05 | Gerador de Senhas | ⬜ A fazer | Cria senhas seguras personalizáveis |
@@ -110,9 +110,9 @@ Este projeto está sob a licença MIT.
 
 ## 📬 Contato
 
-- **GitHub:** [@guisosi](https://github.com/guisosi)
-- **LinkedIn:** [Guilherme Soares](https://www.linkedin.com/in/guilherme-soares-854521380)
-- **Email:** guiartsst@gmail.com
+- **GitHub:** [@limadev27](https://github.com/limadev27)
+- **LinkedIn:** [Guilherme Soares](https://www.linkedin.com/in/isac-alves-138848384/)
+- **Email:** isac.al.dev@gmail.com
 
 ---
 
