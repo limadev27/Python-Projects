@@ -32,7 +32,7 @@ As tecnologias serão atualizadas conforme os projetos forem desenvolvidos.
 |---|---------|--------|-----------|
 | 01 | Calculadora Simples | ✅ Feito | Calculadora com interface |
 | 02 | Jogo de Adivinhação | ✅ Feito | Jogo interativo de adivinhar números |
-| 03 | Conversor de Unidades | ⬜ A fazer | Converte temperatura, peso, distância |
+| 03 | Preço da Passagem | ✅ Feito | Converte o Preço por Distancia |
 | 04 | Ano Bissexto | ✅ Feito | Identificador de ano bissexto |
 | 05 | Gerador de Senhas Simples | ✅ Feito | Cria senhas seguras personalizáveis |
 
