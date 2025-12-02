@@ -34,7 +34,7 @@ As tecnologias serão atualizadas conforme os projetos forem desenvolvidos.
 | 02 | Jogo de Adivinhação | ✅ Feito | Jogo interativo de adivinhar números |
 | 03 | Conversor de Unidades | ⬜ A fazer | Converte temperatura, peso, distância |
 | 04 | Ano Bissexto | ✅ Feito | Identificador de ano bissexto |
-| 05 | Gerador de Senhas | ⬜ A fazer | Cria senhas seguras personalizáveis |
+| 05 | Gerador de Senhas Simples | ✅ Feito | Cria senhas seguras personalizáveis |
 
 ### 🟡 Nível Intermediário
 
